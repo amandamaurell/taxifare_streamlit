@@ -16,7 +16,8 @@ REQUIRED_PACKAGES = [
     'memoized-property==1.0.3',
     'scipy== 1.2.2',
     'category_encoders==2.2.2',
-    'herepy']
+    'herepy',
+    'botocore==1.17.45']
 
 setup(
     name='TaxiFareModel',
